@@ -62,7 +62,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Relanzado Procesos</h1>
+        <h1>EL Tiempo</h1>
         {/* <TextField
           label="EL Tiempo"
           variant="outlined"
