@@ -63,12 +63,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Relanzado Procesos</h1>
-        <TextField
-          label="Buscar proceso"
+        {/* <TextField
+          label="EL Tiempo"
           variant="outlined"
           value={searchText}
           onChange={e => setSearchText(e.target.value)}
-        />
+        /> */}
 
         {weatherData.main ? (
           <List>
